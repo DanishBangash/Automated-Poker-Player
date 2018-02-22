@@ -1,0 +1,6 @@
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\bin\Debug\PokerYT.exe.config
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\obj\Debug\PokerYT.csprojResolveAssemblyReference.cache
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\bin\Debug\PokerYT.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\bin\Debug\PokerYT.pdb
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\obj\Debug\PokerYT.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\PokerYT\PokerYT\obj\Debug\PokerYT.pdb
